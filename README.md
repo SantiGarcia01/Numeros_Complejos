@@ -13,4 +13,13 @@ Para poner en marcha el proyecto se tiene que descargar el archivo llamado Libcp
 
 ### Ejecucion Pruebas
 
-Para la ejecucion de las pruebas necesitaremos el archivo mencionado anteriormente y el archivo Test
+Para la ejecucion de las pruebas necesitaremos el archivo mencionado anteriormente y el archivo TestLicplx, una vez tengamos los dos podremos ejecutar las pruebas que se establecieron en el archivo TestLicplx.
+
+
+### Construido con
+
+Librerias math y unittest
+
+### Autor
+
+Santiago Andres Garcia Almario
