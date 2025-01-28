@@ -1,7 +1,6 @@
 # Numeros_Complejos
 
-En este proyecto realizamos una libreria de numeros complejos la cual opera con las siguienes operaciones suma, producto
-resta, división, módulo, conjugado, conversión entre representaciones polar y cartesiano, en los dos sentidos y retornar la fase de un número complejo.
+En este proyecto realizamos una libreria de numeros complejos la cual opera con las siguienes operaciones suma, producto, resta, división, módulo, conjugado, conversión entre representaciones polar y cartesiano, en los dos sentidos y retornar la fase de un número complejo.
 
 ### Prerrequisitos
 
@@ -10,4 +9,8 @@ resta, división, módulo, conjugado, conversión entre representaciones polar y
 
 ### Instalar
 
-Para poner en marcha el proyecto se tiene que descargar el archivo llamado
+Para poner en marcha el proyecto se tiene que descargar el archivo llamado Libcplx el cual tiene todas las funciones referentes a las operaciones mencionadas anteriormente.
+
+### Ejecucion Pruebas
+
+Para la ejecucion de las pruebas necesitaremos el archivo mencionado anteriormente y el archivo Test
